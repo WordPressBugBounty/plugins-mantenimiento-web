@@ -2,7 +2,7 @@
 Contributors: Carlos Doral.
 Tags: mantenimiento web, mantenimiento wordpress, modo mantenimiento, página en construcción
 Requires at least: 3.5
-Tested up to: 6.5.4
+Tested up to: 6.8.3
 Stable tag: 0.14
 License: GPLv2 or later 
 
